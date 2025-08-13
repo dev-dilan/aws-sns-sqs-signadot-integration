@@ -1,4 +1,4 @@
-# AWS SQS Kubernetes Demo Project
+# AWS Shared SQS, AWS SNS + SQS With Signadot integration Demo Project
 
 ## 1. Introduction
 
@@ -12,7 +12,7 @@ Below is the high-level architecture of the project.
 
 ## 3. SQS Architecture
 
-The following diagram illustrates the specific AWS SQS integration within the application.
+The following diagram illustrates the specific AWS Shared SQS, AWS SNS + SQS fanout integration within the application.
 
 ![SQS Architecture](./apps/frontend/public/img/architecture.jpg)
 
